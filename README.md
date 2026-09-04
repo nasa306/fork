@@ -1,1 +1,1 @@
-proudly protected with pagecrypt :3
+proudly protected with staticrypt :3
